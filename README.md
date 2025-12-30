@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Brendon
 
-<!--
-**BrendonCordova/BrendonCordova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Professional identity
+Back-end Developer focused on **Python**.  
+Graduated in **Analysis and Systems Development (ADS)**.
 
-Here are some ideas to get you started:
+## 🛠 What I do
+- Build back-end projects to strengthen fundamentals
+- Practice logic, functions and data structures
+- Apply clean code and good development practices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Tools & technologies
+- Python
+- Git & GitHub
+- VS Code
+
+## 📫 Contact
+- LinkedIn: [https://www.linkedin.com/in/seu-link](https://www.linkedin.com/in/gcbrendon/)
+- Email: dev.gcbrendon@gmail.com
