@@ -15,5 +15,5 @@ Graduated in **Analysis and Systems Development (ADS)**.
 - VS Code
 
 ## 📫 Contact
-- LinkedIn: [https://www.linkedin.com/in/seu-link](https://www.linkedin.com/in/gcbrendon/)
+- LinkedIn: [https://www.linkedin.com/in/gcbrendon](https://www.linkedin.com/in/gcbrendon/)
 - Email: dev.gcbrendon@gmail.com
