@@ -30,15 +30,6 @@ I'm a **Back-end Developer** with a strong focus on **Python**, passionate about
 
 ---
 
-## 📊 My GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrendonCordova&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendonCordova&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
----
-
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gcbrendon/)
